@@ -5,7 +5,7 @@
 
 ## Index
 
-- [About](#about)
+- [About](#about-me)
 - [Usage](#usage)
   - [Installation](#installation)
   - [Commands](#commands)
@@ -25,7 +25,7 @@
 - [Credit/Acknowledgment](#creditacknowledgment)
 - [License](#license)
 
-## About
+## About Me 
 Add a detailed introduction about the project here, everything you want the reader to know.
 
 ## Usage
